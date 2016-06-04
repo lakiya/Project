@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<r:RECORD xmlns:r="urn:record">
+  <ConnectionString> Data Source = ; Initial Catalog = ; user ID = ; password = ; Persist Security Info = True; </ConnectionString>
+  <AccessDB> RLSDB.mdb </AccessDB>
+</r:RECORD>
+
+  
